@@ -1,0 +1,127 @@
+body{
+    
+    background-image: url(https://th.bing.com/th/id/OIP.PmGrfw-42rwmSTQcm_CAUAAAAA?pid=ImgDet&w=323&h=418&rs=1);
+    
+}
+.heroe{
+    
+    background-image: url(https://2.bp.blogspot.com/-ixq-ZB91LMA/VD03GD2CRZI/AAAAAAAAATU/Xq4ieDXr1_U/s1600/hogaryarmonia.latino.msn_.com-2012-1-22-17-45-43.png);
+    background-repeat: no-repeat;
+    background-size: 400px;
+    background-position:center;
+    height: 300px;
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    width:250px;
+    height:250px;
+    border-radius:100px;
+    border:10px solid rgb(12, 132, 230);
+    
+  }
+
+
+  h1 {
+    color: rgb(253, 8, 8);
+    text-align: center;
+    font-family: 'Lobster', cursive;
+    background-position: center;
+  }
+
+  .texto {
+    font-size: 60px;
+    font-family: 'Lobster', cursive;
+    color: rgb(247, 12, 12);
+    text-align: center;
+    margin-right: 10px;
+  }
+  .padre {
+    
+    text-align: center;
+    
+  }
+  
+  .columna {
+    background: #b51105;
+    color:#f0cbe4;
+    padding: 30px;
+    width: 55%;
+    margin: 10px;
+    border-radius: 20px;
+  }
+  
+  .cajas {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    
+  }
+  /* section 2 */
+.comida1 {
+    margin: 15px;
+    display: flex;
+  }
+  .texto2 {
+
+    color:#020008;
+    padding: 50px;
+    width: 37%;
+    margin: 15px;
+    border-radius: 20px;
+    font-family: 'Rajdhani', sans-serif;
+    font-weight: bold;
+    background: #fff;
+    width: 540px;
+    height: 20px;
+    padding: 20px 20px;
+    font-size: 15px;
+  
+  }
+  .texto3 {
+    
+    z-index: 1;
+    width: 540px;
+    height: 220px;
+    padding: 20px 20px;
+    font-size: 15px;
+    line-height: 1.5;
+    background: #fff;
+    box-shadow: 1px 5px 15px rgba(0,0,0,0.45);
+    border-radius: 5px;
+    text-align: justify;
+  }
+  
+  .texto3 img{
+    width: 310px;
+    border-radius: 5px;
+    float: left;
+    margin-right: 15px;
+ }
+
+/* footer */
+footer {
+    
+    background-position: 50% 45vh;
+    background-color: lightgray;
+    background-size: 50% auto;
+    background-repeat: repeat-x;
+    min-height: 10vh;
+    background-color: black;
+    background-repeat: no-repeat;
+    background-position:top;
+  }
+  
+  .contenedor {
+    color:rgb(126, 188, 211);
+  font-size: 30px;
+  
+}
+  
+  .contacto, div, .contenedor a {
+    text-align: center;
+  }
+  
+  .contacto {
+    color: rgb(97, 165, 188);
+  }
+  
